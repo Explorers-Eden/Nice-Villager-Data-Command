@@ -1,7 +1,6 @@
 execute as @s at @s run playsound minecraft:entity.chicken.egg neutral @s ~ ~ ~ .6 2
 
 function villager_data:msg_elements/seperator
-function villager_data:msg_elements/name
 function villager_data:msg_elements/profession
 function villager_data:msg_elements/level
 function villager_data:msg_elements/golem_detected

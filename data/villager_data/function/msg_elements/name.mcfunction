@@ -1,1 +1,0 @@
-tellraw @s {"bold":true,"color":"#A6FFAF","italic":false,"text":"Villager:"}
